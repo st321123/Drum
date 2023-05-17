@@ -1,0 +1,65 @@
+.but{
+    color:purple;
+    margin:20px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+.divBut{
+    padding:20px;
+    width:10%;
+    height:20%;
+    font-size: 20px;
+    color:rgb(128, 0, 115);
+    font-weight:bold;
+    margin:10px;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    width: 150px;
+    height:150px;
+    background-color: white;
+    display: inline-block;
+}
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+.w{
+    background-image: url(images/tom1.png);
+}
+.a{
+background-image : url(images/tom2.png);
+}
+.s{
+   background-image : url(images/tom3.png); 
+}
+.d{
+   background-image : url(images/tom4.png); 
+}
+.j{
+   background-image :  url(images/snare.png);
+   
+}
+.k{
+    background-image :  url(images/crash.png);
+   
+}
+.l{
+    background-image : url(images/kick.png);
+}
+.pressed{
+    box-shadow:0 3px 4px 0 #dbedf3;
+    opacity:0.5;
+}
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
